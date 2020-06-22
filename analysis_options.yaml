@@ -1,0 +1,11 @@
+include: package:pedantic/analysis_options.yaml
+
+# For lint rules and documentation, see http://dart-lang.github.io/linter/lints.
+
+linter:
+  rules:
+    omit_local_variable_types: false
+    prefer_relative_imports: true
+analyzer:
+#   exclude:
+#     - path/to/excluded/files/**
