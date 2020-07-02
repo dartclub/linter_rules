@@ -7,7 +7,7 @@ in *pubspec.yaml*
 ...
 
 dev_dependencies:
-  dartclub_lint: ^0.1.0
+  dartclub_lint: ^0.2.0
 ```
 
 in *analysis_options.yaml*
