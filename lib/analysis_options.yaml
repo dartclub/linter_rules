@@ -8,8 +8,14 @@ linter:
     prefer_relative_imports: true
     prefer_single_quotes: false
     prefer_double_quotes: false
-    always_declare_return_types: false
     prefer_generic_function_type_aliases: false
+  
 analyzer:
+  errors:
+    missing_required_param: error
+    unawaited_futures: error
+    avoid_void_async: warning
+    missing_return: warning
+    always_declare_return_types: warning
 #   exclude:
 #     - path/to/excluded/files/**

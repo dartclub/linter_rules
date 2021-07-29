@@ -5,3 +5,7 @@ first version
 ### 0.2.0
 
 /lib folder structure
+
+### 0.3.0
+
+stricter rules with errors
