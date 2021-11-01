@@ -9,7 +9,8 @@ linter:
     prefer_single_quotes: false
     prefer_double_quotes: false
     prefer_generic_function_type_aliases: false
-  
+    prefer_const_constructors: false
+
 analyzer:
   errors:
     missing_required_param: error

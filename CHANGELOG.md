@@ -9,3 +9,7 @@ first version
 ### 0.3.0
 
 stricter rules with errors
+
+### 0.3.2
+
+ignore prefer_const_constructors
