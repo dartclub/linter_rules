@@ -17,3 +17,7 @@ ignore prefer_const_constructors
 ### 0.4.0
 
 migrate from pedantic to [lints](https://github.com/dart-lang/lints) package as a basis
+
+### 0.4.1
+
+not so strict rules about const declarations, constructors, etc.
