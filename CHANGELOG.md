@@ -21,3 +21,7 @@ migrate from pedantic to [lints](https://github.com/dart-lang/lints) package as 
 ### 0.4.1
 
 not so strict rules about const declarations, constructors, etc.
+
+### 0.4.2
+
+fix include of lints package
