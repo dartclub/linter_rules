@@ -13,3 +13,7 @@ stricter rules with errors
 ### 0.3.2
 
 ignore prefer_const_constructors
+
+### 0.4.0
+
+migrate from pedantic to [lints](https://github.com/dart-lang/lints) package as a basis
