@@ -25,3 +25,7 @@ not so strict rules about const declarations, constructors, etc.
 ### 0.4.2
 
 fix include of lints package
+
+### 0.4.3
+
+fix lib/analysis_options.yaml
