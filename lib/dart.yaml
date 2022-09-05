@@ -10,6 +10,7 @@ linter:
     prefer_double_quotes: false
     prefer_generic_function_type_aliases: false
     prefer_const_constructors: false
+    always_declare_return_types: true
 
 analyzer:
   errors:
@@ -17,6 +18,6 @@ analyzer:
     unawaited_futures: error
     avoid_void_async: warning
     missing_return: warning
-    always_declare_return_types: warning
+    always_declare_return_types: error
 #   exclude:
 #     - path/to/excluded/files/**

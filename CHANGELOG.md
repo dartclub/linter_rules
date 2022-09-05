@@ -29,3 +29,7 @@ fix include of lints package
 ### 0.4.3
 
 fix lib/analysis_options.yaml
+
+### 0.4.4
+
+make function return types mandatory
