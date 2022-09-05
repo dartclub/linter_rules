@@ -1,6 +1,6 @@
 name: dartclub_lint
 description: Dart analyzer rules, based on pedantic
-version: 0.4.3
+version: 1.0.0
 homepage: https://github.com/dartclub/linter_rules
 
 environment:
