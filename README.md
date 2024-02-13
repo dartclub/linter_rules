@@ -1,3 +1,8 @@
+# !! This package is discontinued !!
+## Please use the official flutter_lints or lints instead 
+
+
+
 # Dart analyzer rules, based on pedantic
 
 ## usage
